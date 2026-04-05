@@ -1,0 +1,18 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: linear-gradient(to right, #eef2f7, #e3ecf5);
+}
+
+.button {
+    -fx-background-color: linear-gradient(#4facfe, #00f2fe);
+    -fx-text-fill: white;
+    -fx-background-radius: 10;
+}
+
+.button:hover {
+    -fx-background-color: linear-gradient(#43e97b, #38f9d7);
+}
+
+.label {
+    -fx-text-fill: #2c3e50;
+}
